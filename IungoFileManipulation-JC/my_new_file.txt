@@ -1,0 +1,5 @@
+[
+    "Hello World!",
+    "This is a text file",
+    "This line was appended using python"
+]

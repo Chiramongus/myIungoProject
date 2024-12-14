@@ -1,0 +1,26 @@
+[
+    {
+        "manufacturer": "Ferrari",
+        "model": "F1",
+        "top_speed": 180,
+        "age": 2024
+    },
+    {
+        "manufacturer": "Mclaren",
+        "model": "F1",
+        "top_speed": 200,
+        "age": 2024
+    },
+    {
+        "manufacturer": "RedBull",
+        "model": "F1",
+        "top_speed": 220,
+        "age": 2024
+    },
+    {
+        "manufacturer": "Mercedes",
+        "model": "F1",
+        "top_speed": 205,
+        "age": 2024
+    }
+]
